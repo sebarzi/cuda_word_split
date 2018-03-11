@@ -36,4 +36,4 @@ CPU
  min  55.73Mb/s
 </code></pre>
 
-另外，昨早公开的文档链接 http://blog.sina.com.cn/s/blog_4d58e3c001010ufv.html
+另外，早些公开的文档链接 http://blog.sina.com.cn/s/blog_4d58e3c001010ufv.html
